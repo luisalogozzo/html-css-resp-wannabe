@@ -50,11 +50,13 @@
 
   #lezioni .row img {
     height: 150px;
+
   }
 
    #lezioni .row > .left, #lezioni .row > .right {
     width: calc(50% - 20px);
     padding: 10px;
+    
   }
 }
 
