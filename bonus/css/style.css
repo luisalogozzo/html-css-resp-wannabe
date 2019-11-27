@@ -39,7 +39,7 @@
   }
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 780px) and (max-width:1020px) {
 
   #lezioni .row {
     width: 100%;
@@ -56,7 +56,7 @@
    #lezioni .row > .left, #lezioni .row > .right {
     width: calc(50% - 20px);
     padding: 10px;
-    
+
   }
 }
 
@@ -91,7 +91,7 @@
   }
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 780px) and (max-width:1020px) {
   #steps .row {
     width: 100%;
     margin-top: 50px;
@@ -150,7 +150,7 @@
   }
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 780px) and (max-width:1020px) {
   #why .row {
     width: 100%;
     margin-top: 50px;
